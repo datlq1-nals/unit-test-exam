@@ -1,0 +1,132 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Test and Coverage
+.coverage
+coverage_report/
+htmlcov/
+.tox/
+.nox/
+.coverage.*
+.cache
+nosetests.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Logs
+*.log
+logs/
+
+# Local development settings
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Project specific
+coverage_report/
+
+# CSV files
+*.csv
+data/*.csv
+output/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Test and Coverage
+.coverage
+coverage_report/
+htmlcov/
+.tox/
+.nox/
+.coverage.*
+.cache
+nosetests.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Logs
+*.log
+logs/
+
+# Local development settings
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Project specific
+coverage_report/ 
